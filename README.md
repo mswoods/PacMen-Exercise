@@ -6,9 +6,9 @@ This project creates a web page that produces a PacMan with the click of a butto
 ## Deployment
 The solution is easy to deploy. First, download the files to your local machine and make sure they are in put into the same directory. Using a browser, simply open up the index.html file. 
 ### To execute
-•	Click the "Add PacMan" button, a new pacman appears at a random position on the screen.
-•	Click the "Start Game" button, the PacMan starts moving at random velocity on the screen.
-•	Click the “Start Game” button again to speed up the PacMen.
+*	Click the "Add PacMan" button, a new pacman appears at a random position on the screen.
+*	Click the "Start Game" button, the PacMan starts moving at random velocity on the screen.
+*	Click the “Start Game” button again to speed up the PacMen.
 
 ## Roadmap/Improvements:
 Non at this time.
